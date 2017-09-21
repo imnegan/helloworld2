@@ -1,0 +1,6 @@
+name: pip-env
+dependencies:
+- python
+- pip
+- pip:
+    - pypi-package-name
